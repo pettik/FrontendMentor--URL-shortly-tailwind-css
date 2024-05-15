@@ -1,8 +1,8 @@
 # FrontendMentor--URL-shortly-tailwind-css
 
-URL shortening API landing page challenge using CSS framework - Tailwind CSS
+<b>URL shortening API landing page</b> challenge using CSS framework - Tailwind CSS
 
-URL shortening API landing page challenge from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G) using CSS framework - Tailwind CSS. Author of this whole page is Brad Traversy in his [Tailwind CSS From Scratch course](https://www.traversymedia.com/tailwind-css-course)
+<b>URL shortening API landing page</b> challenge from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G) using CSS framework - Tailwind CSS. Author of this whole page is Brad Traversy in his [Tailwind CSS From Scratch course](https://www.traversymedia.com/tailwind-css-course)
 
 ## Usage
 
